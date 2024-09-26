@@ -225,7 +225,7 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=zee_bangla
+http://217.20.112.199/zeebangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", ZEE BANGLA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
