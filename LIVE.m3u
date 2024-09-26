@@ -502,6 +502,9 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/Dmax.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title="DOCUMENTORY", TRAVELXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2STKvZP/download-6.jpg" group-title="INDIA", DD BANGLA
+http://150.242.202.110:824/jiobe/live/2568.ts
 #EXTINF:-1 tvg-logo="" group-title="INDIA", STAR PLUS HD
 http://tv.cloudcdn.me/live.ts?channelId=200&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="" group-title="INDIA", ZEE TV HD
