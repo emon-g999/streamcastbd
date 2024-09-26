@@ -242,7 +242,7 @@ http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA", COLORS BANGLA CINEMA 
 ﻿https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2STKvZP/download-6.jpg" group-title="INDIA", DD BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2STKvZP/download-6.jpg" group-title="KOLKATA", DD BANGLA
 http://150.242.202.110:824/jiobe/live/2568.ts
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA", JALSHA MOVIES 
