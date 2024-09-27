@@ -568,9 +568,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", THE MOVIE CLUB
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS HD 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vrcDbn/images-11.jpg" group-title="SPORTS", T SPORTS HD 1
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01   
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XJ8bqM1/images-12.jpg" group-title="SPORTS", T SPORTS HD 2
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1 HD
 http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
@@ -581,10 +581,10 @@ http://ekdilhai.pro/tenso3/index.m3u8?token=da41922098774b00e7fe125d560ef3e5
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 4 HD
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 5 HD
-
+http://150.242.202.110:824/jiobe/live/8422.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD
 http://gtvstreams.me:80/live/111222/111222/792623.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HINDI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5R7XXxk/images-13.jpg" group-title="SPORTS", STAR SPORTS 1 HINDI
 http://gtvstreams.me:80/live/111222/111222/792470.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 2 HD
 http://124.29.225.205:8000/play/a03m/index.m3u8
@@ -598,33 +598,33 @@ http://tv.mototvlive.net:8880/84747/84747/1550
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", PTV SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFCZy4p/download-8.jpg" group-title="SPORTS", PTV SPORTS 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", DUBAI SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqB6P6R/download-3.png" group-title="SPORTS", DUBAI SPORTS 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SKY SPORTS CRICKET 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sF9mGvL/download-9.jpg" group-title="SPORTS", SKY SPORTS CRICKET 
 https://api.flixtronic.top/sportszx/cric/master.php?id=skyscric&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SKY SPORTS MIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xw5fVh/download-4.png" group-title="SPORTS", SKY SPORTS MIX
 https://api.flixtronic.top/sportszx/cric/master.php?id=skysmixx&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", TNT SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFFgFDm/download-5.png" group-title="SPORTS", TNT SPORTS 1
 http://gtvstreams.me:80/live/111222/111222/795123.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9YYz2Y/download-6.png" group-title="SPORTS", ESPN
 https://api.flixtronic.top/sportszx/cric/master.php?id=espnusa&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", WILLOW CRIC BUZZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch73rxn/download-7.png" group-title="SPORTS", WILLOW CRIC BUZZ
 https://rips.in/stream/ch6/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4rnGW8/download-8.png" group-title="SPORTS", ASTRO CRICKET
 https://mhdtv.co.in/daddy/stream.m3u8?id=370
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SUPER SPORTS LALIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qJSdfBS/download-10.jpg" group-title="SPORTS", SUPER SPORTS LALIGA
 https://sports.bdixtv24.com/m3u8.php/superlaliga.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SUPER SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XyRvf9x/download-11.jpg" group-title="SPORTS", SUPER SPORTS PREMIER LEAGUE
 https://sports.bdixtv24.com/m3u8.php/superpremier.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SUPER SPORTS ACTION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rK9hzFp/download-12.jpg" group-title="SPORTS", SUPER SPORTS ACTION
 https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", FIFA +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFWd8M1/download-9.png" group-title="SPORTS", FIFA +
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", MU TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/888xZ51/download-10.png" group-title="SPORTS", MU TV
 https://https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="RELIGIOUS", PEACE TV BANGLA
