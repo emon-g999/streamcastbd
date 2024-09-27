@@ -20,22 +20,20 @@ https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
 https://api.iptvbd.xyz/api/sony_ten3_hd.m3u8
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F606%2Flogo%2F240x240%2Fmobile_logo_689539001672145843.png&w=256&q=75" group-title="TOFFEE", SONY TEN 5 HD 
 https://api.iptvbd.xyz/api/sony_six_hd.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F343%2Flogo%2F240x240%2Fmobile_logo_496322001666780228.png&w=256&q=75" group-title="EXCLUSIVE", SONY AATH
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75" group-title="EXCLUSIVE", SONY SAB HD 
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2422%2Flogo%2F240x240%2Fmobile_logo_037670001666785867.png&w=256&q=75" group-title="EXCLUSIVE", SONY WAH
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F353%2Flogo%2F240x240%2Fmobile_logo_044841001666779831.png&w=256&q=75" group-title="EXCLUSIVE", SONY MAX 2
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F612%2Flogo%2F240x240%2Fmobile_logo_091186001666784752.png&w=256&q=75" group-title="EXCLUSIVE", SONY YAY
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2419%2Flogo%2F240x240%2Fmobile_logo_287412001666784602.png&w=256&q=75" group-title="EXCLUSIVE", SONY PIX HD
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F670%2Flogo%2F240x240%2Fmobile_logo_363688001655891620.png&w=256&q=75" group-title="EXCLUSIVE", SONY BBC EARTH HD
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TOFFEE.",
-https://proximity-team.xyz/dev/tofi.php?m3u8=
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F343%2Flogo%2F240x240%2Fmobile_logo_496322001666780228.png&w=256&q=75" group-title="TOFFEE", SONY AATH
+https://api.iptvbd.xyz/api/sony_aath.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75" group-title="TOFFEE", SONY SAB HD 
+https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2422%2Flogo%2F240x240%2Fmobile_logo_037670001666785867.png&w=256&q=75" group-title="TOFFEE", SONY WAH
+https://api.iptvbd.xyz/api/sony_wah.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F353%2Flogo%2F240x240%2Fmobile_logo_044841001666779831.png&w=256&q=75" group-title="TOFFEE", SONY MAX 2
+https://api.iptvbd.xyz/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F612%2Flogo%2F240x240%2Fmobile_logo_091186001666784752.png&w=256&q=75" group-title="TOFFEE", SONY YAY
+https://api.iptvbd.xyz/api/sony_yay.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2419%2Flogo%2F240x240%2Fmobile_logo_287412001666784602.png&w=256&q=75" group-title="TOFFEE", SONY PIX HD
+https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F670%2Flogo%2F240x240%2Fmobile_logo_363688001655891620.png&w=256&q=75" group-title="TOFFEE", SONY BBC EARTH HD
+https://api.iptvbd.xyz/api/sony_max_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GF2Gt27/image-1.webp" group-title="EXCLUSIVE", ZEE TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9kdNV7/image.webp" group-title="EXCLUSIVE", ZEE CINEMA HD
@@ -53,7 +51,7 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="EXCLUSIVE", B4U MOVIE
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="EXCLUSIVE", B4U MUSIC
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8
+https://api.iptvbd.xyz/api/b4umusic.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="EXCLUSIVE", TOFFEE DRAMAS
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png" group-title="EXCLUSIVE", TOFFEE MOVIES
