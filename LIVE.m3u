@@ -12,14 +12,14 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=li
 lhttps://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="EXCLUSIVE", BONGO DRAMAS
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F603%2Flogo%2F240x240%2Fmobile_logo_237244001666780563.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 1 HD
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F604%2Flogo%2F240x240%2Fmobile_logo_093449001666780976.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 2 HD
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2418%2Flogo%2F240x240%2Fmobile_logo_992280001666781086.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 3 HD
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F606%2Flogo%2F240x240%2Fmobile_logo_689539001672145843.png&w=256&q=75" group-title="EXCLUSIVE", SONY TEN 5 HD 
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F603%2Flogo%2F240x240%2Fmobile_logo_237244001666780563.png&w=256&q=75" group-title="TOFFEE", SONY TEN 1 HD
+https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F604%2Flogo%2F240x240%2Fmobile_logo_093449001666780976.png&w=256&q=75" group-title="TOFFEE", SONY TEN 2 HD
+https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2418%2Flogo%2F240x240%2Fmobile_logo_992280001666781086.png&w=256&q=75" group-title="TOFFEE", SONY TEN 3 HD
+https://api.iptvbd.xyz/api/sony_ten3_hd.m3u8
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F606%2Flogo%2F240x240%2Fmobile_logo_689539001672145843.png&w=256&q=75" group-title="TOFFEE", SONY TEN 5 HD 
+https://api.iptvbd.xyz/api/sony_six_hd.m3u8
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F343%2Flogo%2F240x240%2Fmobile_logo_496322001666780228.png&w=256&q=75" group-title="EXCLUSIVE", SONY AATH
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75" group-title="EXCLUSIVE", SONY SAB HD 
@@ -34,7 +34,7 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F670%2Flogo%2F240x240%2Fmobile_logo_363688001655891620.png&w=256&q=75" group-title="EXCLUSIVE", SONY BBC EARTH HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EXCLUSIVE", 
+#EXTINF:-1 tvg-logo="" group-title="TOFFEE.",
 https://proximity-team.xyz/dev/tofi.php?m3u8=
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GF2Gt27/image-1.webp" group-title="EXCLUSIVE", ZEE TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
@@ -44,8 +44,10 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="EXCLUSIVE", ZEE BANGLA CINEMA
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="EXCLUSIVE", SONY ENTERTAINMENT TELEVISION  
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="TOFFEE", SONY ENTERTAINMENT TELEVISION  
+https://api.iptvbd.xyz/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="TOFFEE", SONY ENTERTAINMENT TELEVISION HD 
+https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="EXCLUSIVE", SONY MAX
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="EXCLUSIVE", B4U MOVIE
