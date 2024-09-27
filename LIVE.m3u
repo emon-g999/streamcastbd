@@ -369,8 +369,11 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
 https://mrking.online/BYEE/live.m3u8?id=1341
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="KIDS", NICK HINDI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA ( WI-FI)
+http://172.20.21.22/live/funtime110/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="KIDS", NICK HINDI
+https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", SONIC BANGLA
 
@@ -405,7 +408,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nBZbvtd/download-13.jpg" group-title="KIDS", SHIVA 24/7
 http://opplex.tv:8080/live/835720/9372490/342074.ts
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", MINIMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/74FrP8C/images-14.jpg" group-title="KIDS", MINIMAX
 https://livetranscode.com/Minimax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
