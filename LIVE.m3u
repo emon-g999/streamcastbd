@@ -4,9 +4,9 @@
 { # This playlists presented by @rmtlivetv } { # Hosting from afran emon }
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="EXCLUSIVE", T SPORTS LIVE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ny0F96y/20240827-010202.png" group-title="TOFFEE", T SPORTS LIVE 1
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="EXCLUSIVE", T SPORTS LIVE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png" group-title="TOFFEE", T SPORTS LIVE 2
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/b5VkjPc/20240907-023057.png" group-title="EXCLUSIVE", BONGO MOVIES
 lhttps://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
@@ -48,9 +48,9 @@ https://api.iptvbd.xyz/api/sony_entertainment.m3u8
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="EXCLUSIVE", SONY MAX
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="EXCLUSIVE", B4U MOVIE
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="EXCLUSIVE", B4U MUSIC
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="TOFFEE", B4U MOVIE
+https://api.iptvbd.xyz/api/b4u_movies.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="TOFFEE", B4U MUSIC
 https://api.iptvbd.xyz/api/b4umusic.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="EXCLUSIVE", TOFFEE DRAMAS
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
