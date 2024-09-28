@@ -555,20 +555,43 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA", DANGAL 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", ZEE CINEMA HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SttD8JX/images-1.jpg" group-title="MOVIE", ZEE CINEMA 
+https://otttv.co.in/dishtv/playlist.php?id=zee-cinema&vtoken=&e=.m3u8|Referer=https://otttv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8rGQ1HY/20240921-014029.png" group-title="MOVIE", ZEE CINEMA (HD)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", & PICTURES HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GFFVNsz/20240918-113746.png" group-title="MOVIE", & PICTURES HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", STAR GOLD HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m91Bsr5/20240925-234150.png" group-title="MOVIE", STAR GOLD HD
 http://tv.cloudcdn.me/live.ts?channelId=196&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmWJM0F/images.png" group-title="MOVIE", STAR GOLD 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=12481&deviceMac=00:1A:79:6C:28:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WGwX3Kj/9k.jpg" group-title="MOVIE", STAR GOLD ROMANCE 
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=7045&deviceMac=00:1A:79:0A:3B:36
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX HD
-http://tv.cloudcdn.me/live.ts?channelId=185&uid=2496&deviceMac=00:1A:79:A8:9C:32
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=sony_max
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", COLORS CINEFLIX HD
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BPwc9Dh/w-DIPC4c-DDm5-Nw-AAAABJRU5-Erk-Jggg.jpg" group-title="MOVIE",COLORS CINEPLEX SUPERHITS
 https://neestreamtv.com/jcinema/stream.m3u8?id=3479683|Referer=https://neestreamtv.com//&key=BDStreamHub
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", B4U MOVIE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ChVkZtj/Colors-Cineplex-Bollywood.png" group-title="MOVIE", Colors Cineplex Bollywood 
+https://neestreamtv.com/jcinema/stream.m3u8?id=3845693|Referer=https://neestreamtv.com//&key=BDStreamHub
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rQkZP90/20240918-090637.png" group-title="MOVIE", B4U MOVIES
 https://cdn2.pishow.tv/live/156/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2sqx12cok5m5h.cloudfront.net/Channellogos/160x90/B4U_Movies.png" group-title="MOVIE", B4U MOVIES AFC
+https://api.iptvbd.xyz/api/b4u_movies.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", B4U KUDAK
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 
@@ -577,10 +600,36 @@ http://103.84.57.155:8000/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", ZEE BOLLYWOOD 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIE", THE MOVIE CLUB
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rQkZP90/20240918-090637.png" group-title="MOVIE", B4U MOVIES
+https://cdn2.pishow.tv/live/156/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0KmxskK/n-H9-Hp-WHGSjl-Lk-QAAAABJRU5-Erk-Jggg.jpg" group-title="MOVIE", HBO
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=12481&deviceMac=00:1A:79:6C:28:A1 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d4jxJK9/0n8-T-E2-TQNg-AAAABJRU5-Erk-Jggg.jpg" group-title="MOVIE", FOX ACTION MOVIE
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8|Referer=https://shls-live-ak.akamaized.net//&key=BDStreamHub
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FBTSw4y/Z-1.jpg" group-title="MOVIE", SOUTH STATION 
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8|Referer=https://cc-tke03xaj1wszc.akamaized.net//&key=BDStreamHub
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q8d1Kwr/9k-1.jpg" group-title="MOVIE", STAR MOVIES HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h8vYvDX/9-CLEof-AAAAAEl-FTk-Su-Qm-CC.jpg" group-title="MOVIE", STAR MOVIES SELECT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vrcDbn/images-11.jpg" group-title="SPORTS", T SPORTS HD 1
 https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=Tsports   
