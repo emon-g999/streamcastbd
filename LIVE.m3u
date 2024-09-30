@@ -280,11 +280,11 @@ https://utube.buddyxiptv.com/@dwnews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS", FRANCE 24
 https://utube.buddyxiptv.com/@France24_en.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS", AL JAZEERA 
-https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=QElRtOsu8dhn9X049H951Q&expires=1725918454&user=ef71b837ceef4cd18a6cf7069722d83d
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS", BBC WORLD NEWS
-https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=ymUVyuuXJ-PhdkL_hlakfg&expires=1725918502&user=ef71b837ceef4cd18a6cf7069722d83d
+http://150.242.202.110:824/jiobe/live/1185.ts
 #EXTINF:-1 tvg-logo="" group-title="NEWS", CNN
-https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=xFXpqkcHrAEEp4RQgNHcnQ&expires=1725918530&user=ef71b837ceef4cd18a6cf7069722d83d
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ABC NEWS
 https://utube.buddyxiptv.com/@ABCNews.m3u8
 
