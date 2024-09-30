@@ -445,7 +445,7 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscTurbo.m3
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", INVESTIGATION DISCOVERY 
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title="DOCUMENTORY", NATIONAL GEOGRAPHIC BANGLA
-
+http://150.242.202.110:824/jiobe/live/41812.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", ANIMAL PLANET 
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", NAT GEO WILD
