@@ -14,6 +14,21 @@ http://streamcastbdchat/join_our_telegram.m3u8
 #EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt13927994/poster/original//vzzeYSh6QYyN9CcY0EmdZJvXH4l.jpg" group-title="HINDI | MOVIE", SALAAR 2023
 http://103.112.150.230/Data/disk1/movies/hindidub/Salaar%20(2023)/Salaar.mp4
 
+
+#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt12584954/poster/original//pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="HINDI | MOVIE", TWITTER'S 
+http://103.112.150.230/Data/disk1/movies/hindidub/Twisters%20(2024)/Twisters.mp4
+
+#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt2337981/poster/original//349EO3Wrvc2d9F58nyTR1Y1hl6r.jpg" group-title="HINDI | MOVIE", ARCHITECTURE 
+http://103.112.150.230/Data/disk1/movies/hindidub/Architecture 101 (2012)/Architecture 101.mp4
+
+#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt21370972/poster/original//ArP7qfQtNNBMsrBtqTJlMaVyWjH.jpg" group-title="HINDI | MOVIE", RATHAM
+http://103.112.150.230/Data/disk1/movies/hindidub/Ratham (2023)/Ratham.mp4
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="ANIMATION | MOVIE", 4
 http://streamcastbdchat/join_our_telegram.m3u8
 
