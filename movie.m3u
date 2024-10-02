@@ -41,8 +41,8 @@ http://streamcastbdchat/join_our_telegram.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TAMIL | MOVIE", 7
 http://streamcastbdchat/join_our_telegram.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ENGLISH | MOVIE", 8
-http://streamcastbdchat/join_our_telegram.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH | MOVIE", BLUE BETTLE
+http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2023/Blue%20Beetle%20%282023%29%201080p%20BluRay%20%5BDual%20Audio%5D/Blue%20Beetle%202023%20BluRay%201080p%20Hindi%20English%20DD%205.1%20x264%20ESub.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI DUBBED | MOVIE", 9
 http://bdixiptvhub/join_our_telegram.m3u8
