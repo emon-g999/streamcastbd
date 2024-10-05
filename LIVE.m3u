@@ -437,27 +437,27 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", PTC MUSIC 
 http://xtv.ooo:8080/live/874246786/743567899/153373.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV HD + 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MUSIC", MTV HD + 
 http://xtv.ooo:8080/live/874246786/743567899/206049.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", WAH PUNJAB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWgz6qp/9k.jpg" group-title="MUSIC", WAH PUNJABI
 http://xtv.ooo:8080/live/874246786/743567899/219496.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", ZING
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjGgQXj/images.jpg" group-tittle=MUSIC", ZING
 http://xtv.ooo:8080/live/874246786/743567899/219496.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MUSIC 18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", MUSIC 18
 http://xtv.ooo:8080/live/874246786/743567899/362865.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", OLD MUSIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", OLD MUSIC
 http://xtv.ooo:8080/live/874246786/743567899/362866.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MU MUSIC 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", MU MUSIC 
 http://xtv.ooo:8080/live/874246786/743567899/362867.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", SHEMAROO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", SHEMAROO
 http://xtv.ooo:8080/live/874246786/743567899/362868.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", EROS MUSIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/EROS-MUSIC.png" group-title="MUSIC", EROS MUSIC
 http://xtv.ooo:8080/live/874246786/743567899/219498.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", GEN Z MUSIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC
 http://xtv.ooo:8080/live/874246786/743567899/270502.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", GEN Z MUSIC 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 2
 http://xtv.ooo:8080/live/874246786/743567899/270503.ts
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", GEN Z MUSIC 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 3
 http://xtv.ooo:8080/live/874246786/743567899/270504.ts
 
 
