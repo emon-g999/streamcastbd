@@ -42,7 +42,7 @@ http://46.250.234.136:8080/live/Amjad/112233/167.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA DRAMA HD 
 http://starshare.live:8080/live/Leroy123/Leroy123/9448.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE HD
 http://starshare.live:8080/live/Leroy123/Leroy123/9447.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
@@ -79,25 +79,25 @@ http://46.250.234.136:8080/live/Amjad/112233/78.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV UK 
 http://46.250.234.136:8080/live/Amjad/112233/81.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 1
 http://starshare.live:8080/live/Leroy123/Leroy123/136495.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 2
 http://starshare.live:8080/live/Leroy123/Leroy123/136496.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 3
 http://starshare.live:8080/live/Leroy123/Leroy123/136497.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 4
 http://starshare.live:8080/live/Leroy123/Leroy123/136498.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 5
 http://starshare.live:8080/live/Leroy123/Leroy123/136499.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 6
 http://starshare.live:8080/live/Leroy123/Leroy123/136500.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA MOVIE 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 7
 http://starshare.live:8080/live/Leroy123/Leroy123/136501.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
@@ -313,12 +313,6 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title="KOLKATA", BANGLA PLUS
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wR9mY94/images-3.jpg" group-title=" STREAM MOVIE BOX ", TOOFAN
-https://drive.usercontent.google.com/download?id=1sWRKt22_dbdvu5JPY7UjrPMCCnffJ4mY&export=download&authuser=0&confirm=t&uuid=a14b9f6c-44cc-4582-850d-f25c5cbe070d&at=AO7h07dzxKb66hJxKf7DCnXqVhJI%3A1727150997546
-
-#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt13927994/poster/original//vzzeYSh6QYyN9CcY0EmdZJvXH4l.jpg" group-title=" STREAM MOVIE BOX ", SALAAR 
-http://103.112.150.230/Data/disk1/movies/hindidub/Salaar%20(2023)/Salaar.mp4
 
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ABP ANANDA 
