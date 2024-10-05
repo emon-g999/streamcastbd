@@ -426,7 +426,7 @@ http://150.242.202.110:824/jiobe/live/12697.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P6m5DTW/20240803-105303.png" group-title="MUSIC", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WtkmCXz/20240803-163225.png" group-title="MUSIC", BALLE BALLE
-https://drmlive.in/yupptv/balle-balle.m3u8
+http://xtv.ooo:8080/live/874246786/743567899/219495.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="MUSIC", E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQL9Zs5/20240803-105418.png" group-title="MUSIC", SHOW BOX
@@ -435,6 +435,57 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", PTC MUSIC 
+http://xtv.ooo:8080/live/874246786/743567899/153373.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MUSIC", MTV HD + 
+http://xtv.ooo:8080/live/874246786/743567899/206049.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWgz6qp/9k.jpg" group-title="MUSIC", WAH PUNJABI
+http://xtv.ooo:8080/live/874246786/743567899/219496.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjGgQXj/images.jpg" group-tittle=MUSIC", ZING
+http://xtv.ooo:8080/live/874246786/743567899/219496.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", MUSIC 18
+http://xtv.ooo:8080/live/874246786/743567899/362865.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", OLD MUSIC
+http://xtv.ooo:8080/live/874246786/743567899/362866.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", MU MUSIC 
+http://xtv.ooo:8080/live/874246786/743567899/362867.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", SHEMAROO
+http://xtv.ooo:8080/live/874246786/743567899/362868.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/EROS-MUSIC.png" group-title="MUSIC", EROS MUSIC
+http://xtv.ooo:8080/live/874246786/743567899/219498.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC
+http://xtv.ooo:8080/live/874246786/743567899/270502.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 2
+http://xtv.ooo:8080/live/874246786/743567899/270503.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 3
+http://xtv.ooo:8080/live/874246786/743567899/270504.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 4
+http://xtv.ooo:8080/live/874246786/743567899/270506.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 5
+http://xtv.ooo:8080/live/874246786/743567899/270508.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 6
+http://xtv.ooo:8080/live/874246786/743567899/270509.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 7
+http://xtv.ooo:8080/live/874246786/743567899/270510.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC 24/7 
+http://xtv.ooo:8080/live/874246786/743567899/270511.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC 7/24
+http://xtv.ooo:8080/live/874246786/743567899/270512.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC & LYRICS 
+http://xtv.ooo:8080/live/874246786/743567899/270513.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", OLD IS GOLD
+http://xtv.ooo:8080/live/874246786/743567899/270514.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 8
+http://xtv.ooo:8080/live/874246786/743567899/270515.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC HIT 
+http://xtv.ooo:8080/live/874246786/743567899/270516.ts
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="GOLDMINES", GOLDMINES
 http://172.105.123.238:18002/play/a00z
@@ -457,7 +508,7 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscTurbo.m3
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", INVESTIGATION DISCOVERY 
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title="DOCUMENTORY", NATIONAL GEOGRAPHIC BANGLA
-http://150.242.202.110:824/jiobe/live/41812.ts
+http://xtv.ooo:8080/live/874246786/743567899/245901.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", ANIMAL PLANET 
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", NAT GEO WILD
@@ -596,7 +647,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vrcDbn/images-11.jpg" group-title="SPORTS", T SPORTS HD 1
 https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=Tsports   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XJ8bqM1/images-12.jpg" group-title="SPORTS", T SPORTS HD 2
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=liv
+http://xtv.ooo:8080/live/874246786/743567899/245901.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1 4K
 http://150.242.202.110:824/jiobe/live/373.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMcZt2G/20240803-110921.png" group-title="SPORTS", SONY SPORTS TEN 2 4K
