@@ -657,7 +657,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vrcDbn/images-11.jpg" group-title="SPORTS", T SPORTS HD 1
-https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=Tsports   
+http://xtv.ooo:8080/live/874246786/743567899/245901.ts   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XJ8bqM1/images-12.jpg" group-title="SPORTS", T SPORTS HD 2
 http://xtv.ooo:8080/live/874246786/743567899/245901.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1 4K
