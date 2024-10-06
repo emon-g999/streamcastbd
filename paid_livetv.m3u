@@ -39,11 +39,17 @@ http://46.250.234.136:8080/live/Amjad/112233/167.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
 http://46.250.234.136:8080/live/Amjad/112233/167.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LkKxQz7/20241006-023432.png" group-title="BANGLADESH", BANGLA DRAMA HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0ywNRx/20241006-152546.png" group-title="BANGLADESH", TOFFEE DRAMA HD 
 http://46.250.234.136:8080/live/Amjad/112233/9448.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQ5bxW7/20241006-152445.png" group-title="BANGLADESH", TOFFEE MOVIE HD
 http://46.250.234.136:8080/live/Amjad/112233/9447.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqg8DN1/20241006-151719.png" group-title="BANGLADESH", BONGO MOVIE HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Z6yhgC/20241006-151908.png" group-title="BANGLADESH", BONGO DRAMA HD 
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
 http://46.250.234.136:8080/live/Amjad/112233/372.ts
@@ -53,7 +59,6 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcKwLyy/download-6.jpg" group-title="BANGLADESH", Bangla 21 TV
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyjcmnn/download-1.png" group-title="BANGLADESH", Bishwa Bangla
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
