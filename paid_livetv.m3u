@@ -440,9 +440,33 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", UTV BINDAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vjT1wRj/2Q.jpg" group-title="MUSIC", UTV BINDAS
 http://xtv.ooo:8080/live/874246786/743567899/112993.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", ONLY MUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", SAGA MUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/maste.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", MAIBOLI
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", DABANGG
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", CHANNEL DIVYA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", SAGA MUSIC HARYANVI
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", M+ HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", TRANCE URBAN 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", ONLY FEVA MUSIC 
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", TRANCE LATINA 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", TRANCE BRASIL 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC", DOOM MUSIC BANGLA
 https://cdn3.pishow.tv/live/279/master.m3u8
