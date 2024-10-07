@@ -22,28 +22,28 @@ https://github.com/emon-g999/RMT-LIVE-TV-/raw/f2cb89ba303e093d65ba89ecf375ca9c18
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/800px-BTV_Chattogram_Logo.svg.png" group-title="BANGLADESH", BTV CTG HD
-http://46.250.234.136:8080/live/Amjad/112233/256.ts
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD 
-http://46.250.234.136:8080/live/Amjad/112233/74.ts
+http://xtv.ooo:8080/live/874246786/743567899/245930.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD HD 
-http://46.250.234.136:8080/live/Amjad/112233/75.ts
+http://xtv.ooo:8080/live/874246786/743567899/245922.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rQmTNKf/20240907-003057.png" group-title="BANGLADESH", SANGSAD TV
 http://starshare.live:8080/live/Leroy123/Leroy123/413.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
-http://46.250.234.136:8080/live/Amjad/112233/167.ts
+http://xtv.ooo:8080/live/874246786/743567899/245909.ts
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
-http://46.250.234.136:8080/live/Amjad/112233/167.ts
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA UK
+http://xtv.ooo:8080/live/874246786/743567899/246010.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0ywNRx/20241006-152546.png" group-title="BANGLADESH", TOFFEE DRAMA HD 
-http://46.250.234.136:8080/live/Amjad/112233/9448.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQ5bxW7/20241006-152445.png" group-title="BANGLADESH", TOFFEE MOVIE HD
-http://46.250.234.136:8080/live/Amjad/112233/9447.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqg8DN1/20241006-151719.png" group-title="BANGLADESH", BONGO MOVIE HD
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
@@ -52,7 +52,7 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bong
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
-http://46.250.234.136:8080/live/Amjad/112233/372.ts
+http://xtv.ooo:8080/live/874246786/743567899/245937.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TSXgKw/b24c-1.jpg" group-title="BANGLADESH", B24C
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
@@ -73,16 +73,16 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://46.250.234.136:8080/live/Amjad/112233/8753.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tX42wVs/images-5.png" group-title="BANGLADESH", IB USA TV BANGLA 
-http://46.250.234.136:8080/live/Amjad/112233/379.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDpW12r/Jonmobhumi-Logo-2.jpg" group-title="BANGLADESH", Jonmo Bhumi TV
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV 
-http://46.250.234.136:8080/live/Amjad/112233/78.ts
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV UK 
-http://46.250.234.136:8080/live/Amjad/112233/81.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 1
 http://starshare.live:8080/live/Leroy123/Leroy123/136495.ts
@@ -148,7 +148,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=10016&deviceMac=00:1A:79:20:6F
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HrJVFC8/20240826-230453.png" group-title="BANGLADESH", GAZI TV HD
-http://46.250.234.136:8080/live/Amjad/112233/1686.ts
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=95&uid=1904&deviceMac=00:1A:79:4C:9A:52
@@ -193,7 +193,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NexusTelevisionLive
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title="BANGLADESH", GLOBAL TV HD
-http://46.250.234.136:8080/live/Amjad/112233/9432.ts
+http://starshare.live:8080/live/Leroy123/Leroy123/4231.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="BANGLADESH", CHANNEL S 
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
