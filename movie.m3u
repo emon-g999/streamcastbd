@@ -110,9 +110,11 @@ http://streamcastbd/join_our_telegram.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8fD3y_g4uZCMnEazZ_4ObNAv1AtANTuTAA&s" group-title="KOLKATA | MOVIE", ABHIMAN 1080P
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Abhimaan%20%282016%29%20Bengali%201080p/Abhimaan%20%282016%29%20Bengali%201080p%20WEB-DL%20x264%20AAC%202.0-NoT.mp4
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA | MOVIE", KHOKA 420
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWJ3pAw6riPVP0ug2zXqoJwkScx-t9hupgg&s" group-title="KOLKATA | MOVIE", KHOKA 420
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Khoka%20420%20%282013%29%201080p%20WEB-DL/Khoka%20420%20%282013%29.WEB.DL.1080p.H264.Bengali.DDP.5.1.Hindi.AAC.2.0.ESUB.mp4
 
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGasp6czaKZN35O6oON3mdqL66s4or4Pfjhw07IxBTUSVNXgjAGdqL3k&s=10" group-title="KOLKATA | MOVIE" ,Bagh Bandhi Khela 2018
@@ -130,7 +132,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1jX_zwSyMCjEfO7Wt6kvMqItH8KeMzFYA2ouootoiLHLl-zDz56GQl_J&s=10" group-title="KOLKATA | MOVIE" ,Hoichoi Unlimited (2018)
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Hoichoi%20Unlimited%20%282018%29%20Bengali%201080p/Hoichoi%20Unlimited%20%5B2018%5D%20Bengali%20Movie%20%201080p%20Webdl%20x%20264%20AVC%20AAC%20DD-2.0%20%5BCinemaghar%5D%20-%201ST%20ON%20NET.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA | MOVIE", PREMI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Premiposter.jpg/220px-Premiposter.jpg" group-title="KOLKATA | MOVIE", PREMI
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282004%29/Premi%20%282004%29%20Bengali%20WEB-DL%201080p/Premi.2004.Bengali.1080p.AMZN.WEB-DL.DDP2.0.H.264.mp4
 
 
