@@ -3,21 +3,22 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 { # This playlists presented by @rmtlivetv } { # Hosting from afran emon }
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LR83jCt/Image-26.jpg" group-title="LIVE EVENT ", BAN VS INDIA 
-https://bdiptv24.com/Toffeelive/live.php?id=9b35bbb302b9&amp;e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="FINAL ICC WOMEN T20 WORLD CUP  ", STREAM CAST SPECIAL 
 https://evbr.short.gy/BDStreamHub/tofffe.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="LIVE EVENT ", ICC WOMEN T20 WORLD CUP
-https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8
+https://evbr.short.gy/BDStreamHub/tofffe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="LIVE EVENT ", ICC WOMEN T20 WORLD CUP 2
-http://46.250.234.136:8080/live/Amjad/112233/71.ts
+https://madplay.live/hls/crichd/index.php?id=skyscric&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="LIVE EVENT ", ICC WOMEN T20 WORLD CUP 3
-http://46.250.234.136:8080/live/Amjad/112233/49.ts
+https://madplay.live/hls/crichd/index.php?id=supercricket&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="LIVE EVENT ", ICC WOMEN T20 WORLD CUP 4
+https://madplay.live/hls/crichd/index.php?id=ptvpk&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
 
 #EXTINF:-1 " tvg-logo="https://raw.githubusercontent.com/emon-g999/RMT-LIVE-TV-/3ebac9348a6a86ae043458ecabf99b5989a2e404/2459853_ico%20(1).png" group-title="LIVE EVENT ", RMT LIVE TV
 https://github.com/emon-g999/RMT-LIVE-TV-/raw/f2cb89ba303e093d65ba89ecf375ca9c18bac701/lv_0_20240905033916.mp4
@@ -48,7 +49,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcKwLyy/download-6.jpg" group-title="BANGLADESH", Bangla 21 TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM0OjIzIFBNJmhhc2hfdmFsdWU9a2RSQlRZVHRtODlvQlhENlJUUllyQT09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyjcmnn/download-1.png" group-title="BANGLADESH", Bishwa Bangla
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
