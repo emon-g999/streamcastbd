@@ -6,7 +6,10 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LR83jCt/Image-26.jpg" group-title="LIVE EVENT ", BAN VS INDIA 
 https://bdiptv24.com/Toffeelive/live.php?id=9b35bbb302b9&amp;e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="LIVE EVENT ", ICC WOMEN T20 WORLD CUP 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="FINAL ICC WOMEN T20 WORLD CUP  ", STREAM CAST SPECIAL 
+https://evbr.short.gy/BDStreamHub/tofffe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="LIVE EVENT ", ICC WOMEN T20 WORLD CUP
 https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fxPLYr/images-3.jpg" group-title="LIVE EVENT ", ICC WOMEN T20 WORLD CUP 2
