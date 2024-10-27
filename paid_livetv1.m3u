@@ -37,7 +37,7 @@ http://starshare.live:8080/live/Leroy123/Leroy123/413.ts
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1304.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA UK
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/3758.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0ywNRx/20241006-152546.png" group-title="BANGLADESH", TOFFEE DRAMA HD 
 
@@ -55,16 +55,16 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bong
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1315.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TSXgKw/b24c-1.jpg" group-title="BANGLADESH", B24C
-https://app.ncare.live/live-orgin/b24c.stream/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1325.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcKwLyy/download-6.jpg" group-title="BANGLADESH", Bangla 21 TV
-https://app.ncare.live/live-orgin/bangla21tv000889956-sg.stream/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/2735.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyjcmnn/download-1.png" group-title="BANGLADESH", Bishwa Bangla
 https://app.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PyMZ0x/iontvuk.jpg" group-title="BANGLADESH", ION TV
-https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/4666.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMVC9Pj/NAN-TV-Logo-02.png" group-title="BANGLADESH", NAN TV
 https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8
@@ -82,10 +82,16 @@ https://app.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16549.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV Europe
-https://app.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1625.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHAkOAcn7cBzUW34SVcBCraw8GaN-ra-6DIpIJrh-GCA=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH", CHANNEL A1
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/19835.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBac5jkB6Ky2LpBoh6J5Ss-lCKOiYIl1DAE1DDETcUz386Fijk-F6Eqm2&s=10" group-title="BANGLADESH",PROBASHI TV
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/15970.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA NATOK
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/19839.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", BANGLA MOVIE 1
 http://starshare.live:8080/live/Leroy123/Leroy123/136495.ts
@@ -121,7 +127,7 @@ http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1299.ts
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16379.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BANGLADESH", DESH TV
-https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1320.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS HD
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1300.ts
@@ -154,7 +160,7 @@ http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/4096.ts
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
-https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/3113.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESH", ASIAN TV HD
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1306.ts
@@ -178,10 +184,13 @@ http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16508.ts
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=OKjDItHYpdcZUItjgwxpiQ&expires=1730082594&user=8c122f042c3043aba79a72f643fda382
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="BANGLADESH", BANGLA TV 
-https://cdn.ghuddi.live/tvapp/Bangla_TV_BD/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/15838.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrilYOErcBLFGp4SOWrLZzzCbW5WTelOn0OYqhl3bNY7pCGlgdmMDAnpul&s=10" group-title="BANGLADESH",MAGIC BANGLA TV 
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/19535.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JBUoDY4h6HPIrcwn_uXrXz1a6UALfdVoyuCXb0Ot4nA1C7NICAqfUkRBCM0ZV33Jisb8fPF5Eg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",NOBANNO 
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16381.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHn2Zbm/20240826-230932.png" group-title="BANGLADESH", BANGLA TV EUROPE 
 https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8
@@ -205,7 +214,7 @@ http://starshare.live:8080/live/3569087360/6542246996/4231.ts
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16580.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtHm13Z/images-1.png" group-title="BANGLADESH", CHANNEL S UK
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1464.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YQ2wS0H/20240730-225606.png" group-title="BANGLADESH", JAGO NEWS 24
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16427.ts
@@ -230,6 +239,16 @@ https://app.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grH4mgT/images.png" group-title="BANGLADESH", CHANNEL EUROPE
 https://app.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", SRK TV
+https://cdn.ncare.live/flixhls/flixsrktv.stream/playlis. m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESH", PBN BANGLA
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png" group-title="BANGLADESH", Times TV
+https://app.ncare.live/live-orgin/times24tv.stream/playlist.m3u8
+
 
 
 
