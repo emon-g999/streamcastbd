@@ -259,11 +259,17 @@ http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1562.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VqfrtWw/images-3.jpg" group-title="KOLKATA", STAR JALSHA SD
 http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VqfrtWw/images-3.jpg" group-title="KOLKATA", STAR JALSHA (WIFI)
+http://172.20.21.22/live/funtime111/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ctdQCyY/9k-3.jpg" group-title="KOLKATA", ZEE BANGLA SD
 http://xsmarters.top:8080/live/0966717777/0966717777/245893.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YTbmjKZ/9k-4.jpg" group-title="KOLKATA", ZEE BANGLA FHD
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1347.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YTbmjKZ/9k-4.jpg" group-title="KOLKATA", ZEE BANGLA (WIFI)
+http://172.20.21.22/live/funtime112/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nPZ0kzZ/y-ZYxy-P9bp-Cw-AAAAASUVORK5-CYII.jpg" group-title="KOLKATA", COLORS BANGLA FHD
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1565.ts
