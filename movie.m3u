@@ -103,10 +103,10 @@ http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2023/Blue%20Beetle%20
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="HINDI DUBBED | MOVIE", 9
-http://streamcastbd/join_our_telegram.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Wonderlandfilm.jpg" group-title="HINDI DUBBED | MOVIE", WONDERLAND 
+https://xsmarters.top:8080/movie/0966717777/0966717777/379963.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnhvbitbn-0vquLTh7ODqdKMsA0Z8d4AQtlw&usqp=CAU" group-title="HINDI DUBBED | MOVIE", Knights Of the zodaic
+http://xsmarters.top:8080/movie/0966717777/0966717777/363034.mkv
 
 
 
