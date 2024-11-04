@@ -171,6 +171,9 @@ http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/15834.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1332.ts
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV NEW
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCA0OjI3OjE4IFBNJmhhc2hfdmFsdWU9Nk1QOGIxYnZlV25jc29ZVXJQcFRQdz09JnZhbGlkbWludXRlcz00MA==
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BANGLADESH", DEEPTO TV HD
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/1316.ts
 
