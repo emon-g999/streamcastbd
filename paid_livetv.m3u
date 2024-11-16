@@ -334,8 +334,8 @@ http://54.38.79.60:2020/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/f033jXb/download-5.jpg" group-title="KOLKATA🖥️🎬", Sananda TV FHD
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16533.ts 
 
-#EXTINF:-1 tvg-logo="" group-title=
-
+#EXTINF:-1 tvg-logo="" group-title="MUSIC🎸🎹🥁", Sun music
+https://rmtonlin.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA🖥️🎬", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
