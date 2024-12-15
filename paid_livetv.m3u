@@ -15,24 +15,19 @@ http://xtvplayer.top:8080/live/827281020/827292929/245930.ts
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png", Btv World
 http://172.105.123.238:18002/play/a038
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/800px-BTV_Chattogram_Logo.svg.png", Btv Chattogram
-http://150.242.202.110:824/jiobe/live/6080.ts
-http://46.250.234.136:8080/live/Amjad/112233/256.ts
-https://tgaadi-web.tech/restream/star-share.php?tv=3818_
-http://starshare.live:8080/live/Leroy123/Leroy123/3818.ts
+
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/live-orgin/btvnational-ctg.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
-http://xtv.ooo:8080/live/malik625538/digitalstore1year/245940.ts
-http://opplex.tv:8080/live/global/global/245940.ts
-http://xtv.ooo:8080/kamran800/800kamran/245940.ts
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png",Atn Bangla
-http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/4709.ts
-http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=16068&deviceMac=00:1A:79:0A:3B:2B
-http://serverinfo.one:8080/live/A4325544/443366/83782.ts
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 
-https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
-https://evbr.short.gy/BDStreamHub/channel_I.m3u
+http://xtv.ooo:8080/kamran800/800kamran/245940.ts
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png",Atn Bangla
+https://app.ncare.live/live-orgin/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8?nimblesessionid=608059266
+http://xtv.ooo:8080/live/kamran800/800kamran/245909.ts
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
+https://app.ncare.live/live-orgin/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8?nimblesessionid=608063500
+
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://210.4.72.204/hls-live/streams/livepkgr/events/_definst_/liveevent/livestream3Num12078.ts
@@ -345,7 +340,134 @@ http://54.38.79.60:2020/sananda/index.m3u8
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16533.ts 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC🎸🎹🥁", Sun music
-https://rmtonlin.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA 
+http://starshare.live:8080/live/Leroy123/Leroy123/3807.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vjT1wRj/2Q.jpg" group-title="MUSIC", UTV BINDAS
+http://xtv.ooo:8080/live/874246786/743567899/112993.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", ONLY MUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", SAGA MUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/maste.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", MAIBOLI
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", DABANGG
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", CHANNEL DIVYA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", SAGA MUSIC HARYANVI
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", M+ HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", TRANCE URBAN 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", ONLY FEVA MUSIC 
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", TRANCE LATINA 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKRMDVy/20241006-030645.png" group-title="MUSIC", TRANCE BRASIL 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC", DOOM MUSIC BANGLA
+https://cdn3.pishow.tv/live/279/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png" group-title="MUSIC", MUSIC INDIA 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC", 9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC", 9X JALWA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWXLdY/20241007-053518.png" group-title="MUSIC", ROMANTIC LOVE YT
+https://ythls.armelin.one/channel/UCBTd3-zvl7sX2pWZ07I0Vfg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWXLdY/20241007-053518.png" group-title="MUSIC", ROMANTIC LOVE YT 2
+https://ythls.armelin.one/channel/UCAx1UezilUtHU1bc-zCroJg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWXLdY/20241007-053518.png" group-title="MUSIC", ROMANTIC LOVE YT 3
+https://ythls.armelin.one/channel/UCx-SUQeR64O0U6_ST-BT3vg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWXLdY/20241007-053518.png" group-title="MUSIC", ROMANTIC LOVE YT 4
+https://ythls.armelin.one/channel/UChPgsCEsYhkCAKIo3IVnFsQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWXLdY/20241007-053518.png" group-title="MUSIC", Bollywoodslow686 
+https://ythls.armelin.one/channel/UCpGH3VhJL_04Dj71rpYHD9A.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWXLdY/20241007-053518.png" group-title="MUSIC", Newhindipartymix2552
+https://ythls.armelin.one/channel/UC4zvcd2F0UebXfG4LfygTmQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWXLdY/20241007-053518.png" group-title="MUSIC", Hindimashup1616
+https://ythls.armelin.one/channel/UC_QeNyJjMw5wB-xqOl3bbyw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png" group-title="MUSIC", AB MASTI III
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" group-title="MUSIC", MTV
+http://xtv.ooo:8080/live/874246786/743567899/206054.ts
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="MUSIC", MTV BEATS SD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="MUSIC", MTV BEATS HD
+http://150.242.202.110:824/jiobe/live/14839.ts
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="MUSIC", ZING
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="MUSIC", YRF MUSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MY1r9f/20240803-105226.png" group-title="MUSIC", SANGEET BHOJPURI SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MY1r9f/20240803-105226.png" group-title="MUSIC", SANGEET BHOJPURI 4K
+http://150.242.202.110:824/jiobe/live/12697.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6m5DTW/20240803-105303.png" group-title="MUSIC", JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WtkmCXz/20240803-163225.png" group-title="MUSIC", BALLE BALLE
+http://xtv.ooo:8080/live/874246786/743567899/219495.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="MUSIC", E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQL9Zs5/20240803-105418.png" group-title="MUSIC", SHOW BOX
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC", B4U MUSIC
+https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", ZOOM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", PTC MUSIC 
+http://xtv.ooo:8080/live/874246786/743567899/153373.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MUSIC", MTV HD + 
+http://xtv.ooo:8080/live/874246786/743567899/206049.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWgz6qp/9k.jpg" group-title="MUSIC", WAH PUNJABI
+http://xtv.ooo:8080/live/874246786/743567899/219496.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjGgQXj/images.jpg" group-tittle=MUSIC", ZING
+http://xtv.ooo:8080/live/874246786/743567899/219496.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", MUSIC 18
+http://xtv.ooo:8080/live/874246786/743567899/362865.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", OLD MUSIC
+http://xtv.ooo:8080/live/874246786/743567899/362866.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", MU MUSIC 
+http://xtv.ooo:8080/live/874246786/743567899/362867.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcYYqRS/dldg-AAAABJRU5-Erk-Jggg.jpg" group-title="MUSIC", SHEMAROO
+http://xtv.ooo:8080/live/874246786/743567899/362868.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/EROS-MUSIC.png" group-title="MUSIC", EROS MUSIC
+http://xtv.ooo:8080/live/874246786/743567899/219498.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC
+http://xtv.ooo:8080/live/874246786/743567899/270502.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 2
+http://xtv.ooo:8080/live/874246786/743567899/270503.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 3
+http://xtv.ooo:8080/live/874246786/743567899/270504.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 4
+http://xtv.ooo:8080/live/874246786/743567899/270506.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 5
+http://xtv.ooo:8080/live/874246786/743567899/270508.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 6
+http://xtv.ooo:8080/live/874246786/743567899/270509.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 7
+http://xtv.ooo:8080/live/874246786/743567899/270510.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC 24/7 
+http://xtv.ooo:8080/live/874246786/743567899/270511.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC 7/24
+http://xtv.ooo:8080/live/874246786/743567899/270512.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC & LYRICS 
+http://xtv.ooo:8080/live/874246786/743567899/270513.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", OLD IS GOLD
+http://xtv.ooo:8080/live/874246786/743567899/270514.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RG4zr/9k-1.jpg" group-title="MUSIC", GEN Z MUSIC 8
+http://xtv.ooo:8080/live/874246786/743567899/270515.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRY5fw/images-2.png" group-title="MUSIC", MUSIC HIT 
+http://xtv.ooo:8080/live/874246786/743567899/270516.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA🖥️🎬", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
