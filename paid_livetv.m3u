@@ -1,12 +1,24 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xk432tb/Pink-and-Red-Grainy-Gradient-Podcast-You-Tube-Channel-Logo-modified.png" group-title="STRAM CAST BD ", HEARTBEAT (Server 1)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTyHEzd4P9ciKTjoNqyGedqNkukEIgYdLrjVmi8_vRJX-0672PsQLtYY&s=10" group-title="LIVE EVENT",BPL S-1
+https://stream.iptvbd.xyz/Tsport1/index.mp4?token=a90cd7c521e34c2f1fcf9647612eeb44b49f7275-8ec19cdd2f1dc7a3ec7c2a0717d9cf01-1735860802-1735850002
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTyHEzd4P9ciKTjoNqyGedqNkukEIgYdLrjVmi8_vRJX-0672PsQLtYY&s=10" group-title="LIVE EVENT",BPL S-2
+https://stream.iptvbd.xyz/Gazi-Tv/index.fmp4.m3u8?token=557a187535821dd64c289f2afc38a65fea982d82-904ba264fb2499eb5a19ce497699bfa5-1735860863-1735850063
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xk432tb/Pink-and-Red-Grainy-Gradient-Podcast-You-Tube-Channel-Logo-modified.png" group-title="LIVE EVENT", HEARTBEAT (Server 1)
 https://ythls.armelin.one/channel/UCSuSohlKOQ2XCp_abkyOAEg.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xk432tb/Pink-and-Red-Grainy-Gradient-Podcast-You-Tube-Channel-Logo-modified.png" group-title="STRAM CAST BD ", HEARTBEAT (Server 2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xk432tb/Pink-and-Red-Grainy-Gradient-Podcast-You-Tube-Channel-Logo-modified.png" group-title="LIVE EVENT", HEARTBEAT (Server 2)
 https://ythls-v3.onrender.com/channel/UCSuSohlKOQ2XCp_abkyOAEg.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xk432tb/Pink-and-Red-Grainy-Gradient-Podcast-You-Tube-Channel-Logo-modified.png" group-title="STRAM CAST BD ", HEARTBEAT (Server 3)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xk432tb/Pink-and-Red-Grainy-Gradient-Podcast-You-Tube-Channel-Logo-modified.png" group-title="LIVE EVENT", HEARTBEAT (Server 3)
 https://ythls-v3.onrender.com/channel/UCSuSohlKOQ2XCp_abkyOAEg.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV National
