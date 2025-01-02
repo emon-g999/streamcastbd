@@ -1,13 +1,13 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTyHEzd4P9ciKTjoNqyGedqNkukEIgYdLrjVmi8_vRJX-0672PsQLtYY&s=10" group-title="LIVE EVENT",BPL S-1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTyHEzd4P9ciKTjoNqyGedqNkukEIgYdLrjVmi8_vRJX-0672PsQLtYY&s=10" group-title="LIVE EVENT",BPL T SPORTS 
 https://stream.iptvbd.xyz/Tsport1/index.fmp4.m3u8?token=a90cd7c521e34c2f1fcf9647612eeb44b49f7275-8ec19cdd2f1dc7a3ec7c2a0717d9cf01-1735860802-1735850002
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTyHEzd4P9ciKTjoNqyGedqNkukEIgYdLrjVmi8_vRJX-0672PsQLtYY&s=10" group-title="LIVE EVENT",BPL S-2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW644pZ1QzFrd2GAoCXM6DbBnnMu7Ewv0MVg&usqp=CAU" group-title="LIVE EVENT",BPL GTV
 https://stream.iptvbd.xyz/Gazi-Tv/index.fmp4.m3u8?token=557a187535821dd64c289f2afc38a65fea982d82-904ba264fb2499eb5a19ce497699bfa5-1735860863-1735850063
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIIeZJ1mzOZEIHkv69GTjPoJWbtsufoyw3CS31Lgu-Fi2l_UyH31WxPzZ&s=10" group-title="LIVE EVENT", FOOTBALL 
-https://bdix.my.id/player.php?c=https://rmtv-canela.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8v9ikKW0kYWqQVBowLSidKi3UgcvP503CxXhI58a9tiBH2y01AX6TGI&s=10" group-title="LIVE EVENT",BPL T-SPORTS HD
+https://hex.flixtronic.top/tsports/stream.php?id=live-02&ak=index.m3u8
 
 
 
