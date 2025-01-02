@@ -23,17 +23,16 @@ https://ythls-v3.onrender.com/channel/UCSuSohlKOQ2XCp_abkyOAEg.m3u8
 https://ythls-v3.onrender.com/channel/UCSuSohlKOQ2XCp_abkyOAEg.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV National
-http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
-http://xtvplayer.top:8080/live/827281020/827292929/245930.ts
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png", Btv World
-http://xtv.ooo:8080/live/kamran800/800kamran/245922.ts
+https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8|Referer=https://app.jagobd.com.bd//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/800px-BTV_Chattogram_Logo.svg.png", Btv Chattogram
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/live-orgin/btvnational-ctg.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
-http://xtv.ooo:8080/kamran800/800kamran/245940.ts
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/live-orgin/songsodtv-world.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png",Atn Bangla UK 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
@@ -65,7 +64,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Desh Tv
-https://raw.githubusercontent.com/emon-g999/streamcastbd/refs/heads/main/InShot_20241215_133420153.mp4
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=SE7ijG5YnR8ODPFflCtlKg&expires=1736069858&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://mytvbangla.com/0.m3u8
