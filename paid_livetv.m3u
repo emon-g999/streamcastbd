@@ -223,36 +223,43 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://cb24tv.com/wp-content/uploads/2024/07/CB24_TV-removebg-preview.png",CB24 Tv
 https://app.ncare.live/live-orgin/cb24.stream/playlist.m3u8|Referer=https://app.ncare.live
+
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSQej8RsdvS0rixlNSlJMfetOtepVjXughQ&s",Bangla 21 Tv
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=a706f808
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8|Referer=https://livess.ncare.live
+
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://i.imgur.com/AnUlFWN.jpg",Times 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjQgMjoyOTo0MyBQTSZoYXNoX3ZhbHVlPWl1b0pZeG5lMkhsTjJjNzBwZWdEZmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10",BiswaBangla 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8|Referer=https://app.ncare.live
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd
-#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB Tv
 
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB Tv
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=16068&deviceMac=00:1A:79:0A:3B:2B
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/matribhumi-tv.png", Matribhumi TV
+
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/matribhumi-tv.png", Matribhumi TV
 https://app.ncare.live/streams/matribhumitv.stream/playlist.m3u8
 
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",Jagorani Tv
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",Jagorani Tv
 https://app.ncare.live/streams/jagoronitv.stream/playlist.m3u8
 https://global.ncare.live/streams/jagoronitv.stream/playlist.m3u8|Referer=https://global.ncare.live
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="http://lifetvbd.xyz:8080/images/3880d31c5b2691a939b5b6297f257486.png", AB Tv
+
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="http://lifetvbd.xyz:8080/images/3880d31c5b2691a939b5b6297f257486.png", AB Tv
 https://app.ncare.live/streams/abtvusa.stream/playlist.m3u8
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9-_kJo4_lHZZf8SVQWpKwiBYHlM3_8PDEw&s",Jonmobhumi Tv
+
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9-_kJo4_lHZZf8SVQWpKwiBYHlM3_8PDEw&s",Jonmobhumi Tv
 https://app.ncare.live/streams/jonmobhumitv.stream/playlist.m3u8
 http://xtv.ooo:8080/52882216/581881255/245939
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo=https://play-lh.googleusercontent.com/k8oTDUaursTptlXo8o8NLS89Q74xdtu_slU_9UJPufYpndJc0j8yh0Ab0TmDF9JbyX0=w240-h480-rw", RB Tv
-https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8|Referer=https://cdn.ncare.live
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHghA-axG3PTV1pV4mRg4NNKVzBKLVeP6vOQ&s",Channel A1,
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/live-orgin/cha1.stream/chunks.m3u8|Referer=https://mhdtvplay.com
-EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://i.imgur.com/9PXSW7a.jpg",NAN TV
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/chunks.m3u8|Referer=https://livess.ncare.live
 
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo=https://play-lh.googleusercontent.com/k8oTDUaursTptlXo8o8NLS89Q74xdtu_slU_9UJPufYpndJc0j8yh0Ab0TmDF9JbyX0=w240-h480-rw", RB Tv
+https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8|Referer=https://cdn.ncare.live
+
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHghA-axG3PTV1pV4mRg4NNKVzBKLVeP6vOQ&s",Channel A1,
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/live-orgin/cha1.stream/chunks.m3u8|Referer=https://mhdtvplay.com
+
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://i.imgur.com/9PXSW7a.jpg",NAN TV
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/chunks.m3u8|Referer=https://livess.ncare.live
 http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 
 
