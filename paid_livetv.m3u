@@ -39,7 +39,6 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png",Atn Bangla UK 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-
 https://app.ncare.live/live-orgin/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8?nimblesessionid=608059266
 http://xtv.ooo:8080/live/kamran800/800kamran/245909.ts
 
@@ -265,7 +264,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=16068&deviceMac=00:1A:79:0A
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XyhYR1c/9k-2.jpg" group-title="KOLKATA🖥️🎬", STAR JALSHA FHD
-http://watchindia.net:8880/live/80817/80817/2281.m3u8
+https://baskardo.vip/IN_JALSHAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VqfrtWw/images-3.jpg" group-title="KOLKATA🖥️🎬", STAR JALSHA SD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/76204.ts
@@ -279,6 +278,9 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/78981.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YTbmjKZ/9k-4.jpg" group-title="KOLKATA🖥️🎬", ZEE BANGLA FHD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/34731.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YTbmjKZ/9k-4.jpg" group-title="KOLKATA🖥️🎬", ZEE BANGLA (BACKUP)
+https://baskardo.vip/IN_ZEBS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YTbmjKZ/9k-4.jpg" group-title="KOLKATA🖥️🎬", ZEE BANGLA (ULTRA)
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:88:AF:AC&stream=225796&extension=ts&play_token=kfzQcVFTlQ
 
@@ -291,8 +293,11 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:88:AF:AC&stream=225712&ex
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k4thzS6/download-2.png" group-title="KOLKATA🖥️🎬", COLORS BANGLA (HD)
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/76179.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k4thzS6/download-2.png" group-title="KOLKATA🖥️🎬", COLORS BANGLA (BACKUP)
+https://baskardo.vip/IN_ColorsBengali/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA🖥️🎬", COLORS BANGLA CINEMA 
-﻿http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/13888.ts
+https://totaflix.news/app/chdstreamm.php?id=1657
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2STKvZP/download-6.jpg" group-title="KOLKATA🖥️🎬", DD BANGLA
 
@@ -300,8 +305,8 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/76179.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MZ49k6Y/2Q.jpg" group-title="KOLKATA🖥️🎬", JALSHA MOVIES 
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FzRWPnk/2Q-1.jpg" group-title="KOLKATA🖥️🎬", JALSHA MOVIES FHD
-http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/2528.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FzRWPnk/2Q-1.jpg" group-title="KOLKATA🖥️🎬", JALSHA MOVIES (BACKUP)
+https://baskardo.vip/IN_JALSHAMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA🖥️🎬", SONY AATH [ WI-FI ]
 
