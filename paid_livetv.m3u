@@ -1,17 +1,25 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTyHEzd4P9ciKTjoNqyGedqNkukEIgYdLrjVmi8_vRJX-0672PsQLtYY&s=10" group-title="LIVE EVENT",BPL T SPORTS 
-https://stream.iptvbd.xyz/Tsport1/index.fmp4.m3u8?token=a90cd7c521e34c2f1fcf9647612eeb44b49f7275-8ec19cdd2f1dc7a3ec7c2a0717d9cf01-1735860802-1735850002
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW644pZ1QzFrd2GAoCXM6DbBnnMu7Ewv0MVg&usqp=CAU" group-title="LIVE EVENT",BPL GTV
-https://stream.iptvbd.xyz/Gazi-Tv/index.fmp4.m3u8?token=557a187535821dd64c289f2afc38a65fea982d82-904ba264fb2499eb5a19ce497699bfa5-1735860863-1735850063
+https://hex.flixtronic.top/matchliv/11892.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8v9ikKW0kYWqQVBowLSidKi3UgcvP503CxXhI58a9tiBH2y01AX6TGI&s=10" group-title="LIVE EVENT",BPL T-SPORTS HD
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8v9ikKW0kYWqQVBowLSidKi3UgcvP503CxXhI58a9tiBH2y01AX6TGI&s=10" group-title="LIVE EVENT",SPORTS HD
-https://cdn-toffee.iptvbd.xyz/live.php?id=sports_highlights&e=.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/FrKyX" group-title="LIVE EVENT",Afghanistan tour of Zimbabwe 2024-25
+https://off6.jismhaitokia.com:999/hls/ptvpk-40654.ts
 
+#EXTINF:-1 tvg-logo="https://i.bleacherreport.net/images/team_logos/328x328/big_bash_league.png?canvas=492,328" group-title="LIVE EVENT",Big Bash League
+https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.bleacherreport.net/images/team_logos/328x328/big_bash_league.png?canvas=492,328" group-title="LIVE EVENT",Big Bash league 
+https://d7.jisdeshmaiganga.com:999/hls/willowextra-65206.ts
+
+#EXTINF:-1 tvg-logo="https://i.bleacherreport.net/images/team_logos/328x328/big_bash_league.png?canvas=492,328" group-title="LIVE EVENT",BiG Bash league 
+https://m118753.protect-cdn.net/live/m4-720p.m3u8
 
 
 
