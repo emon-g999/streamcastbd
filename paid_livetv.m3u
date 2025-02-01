@@ -299,9 +299,6 @@ https://doyel-admin.fillup.tech/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XyhYR1c/9k-2.jpg" group-title="KOLKATA🖥️🎬", STAR JALSHA -H✅
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
-
-
-
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/76204.ts
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/34726.ts
 
@@ -324,8 +321,8 @@ https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774158|Referer=https://moonkera
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k4thzS6/download-2.png" group-title="KOLKATA🖥️🎬", COLORS BANGLA HD✅
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA🖥️🎬", COLORS BANGLA CINEMA ❌
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA🖥️🎬", COLORS BANGLA CINEMA ✅
+http://starshare.live:8080/live/qwe123/qwe123/271038.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2STKvZP/download-6.jpg" group-title="KOLKATA🖥️🎬", DD BANGLA✅
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/808807.ts
@@ -333,20 +330,20 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/808807.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MZ49k6Y/2Q.jpg" group-title="KOLKATA🖥️🎬", JALSHA MOVIES✅
 http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FzRWPnk/2Q-1.jpg" group-title="KOLKATA🖥️🎬", JALSHA MOVIES (BACKUP)✅
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FzRWPnk/2Q-1.jpg" group-title="KOLKATA🖥️🎬", JALSHA MOVIES (B)✅
 https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA🖥️🎬", SONY AATH [ WI-FI ]
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA🖥️🎬", SONY AATH FHD✅
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/78972.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA🖥️🎬", SONY AATH HD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA🖥️🎬", SONY AATH HD❌
-https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4SXM1PV/2Q-2.jpg" group-title="KOLKATA🖥️🎬", ZEE BANGLA CINEMA❌
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ZeebanglaciFHDa1/default/Zeebanglacinema1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA🖥️🎬", SONY AATH H✅
+http://starshare.live:8080/live/qwe123/qwe123/4083.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4SXM1PV/2Q-2.jpg" group-title="KOLKATA🖥️🎬", ZEE BANGLA CINEMA✅
+http://starshare.live:8080/live/qwe123/qwe123/410.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GKVrXb/Sun-Bangla.png" group-title="KOLKATA🖥️🎬", SUN BANGLA ✅
 http://watchindia.net:8880/live/49387/51659/2290.ts
@@ -355,7 +352,7 @@ http://watchindia.net:8880/live/49387/51659/2290.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3BrJZz5/images-2.png" group-title="KOLKATA🖥️🎬", SUN BANGLA HD ✅
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510486.ts
+http://starshare.live:8080/live/qwe123/qwe123/3753.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yNxQZYv/download.png" group-title="KOLKATA🖥️🎬", TARA BANGLA CINEMA HD✅
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -365,6 +362,30 @@ http://54.38.79.60:2020/sananda/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/f033jXb/download-5.jpg" group-title="KOLKATA🖥️🎬", Sananda TV HD❌
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/16533.ts 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA🖥️🎬", KHUSHBOO BANGLA ✅
+http://starshare.live:8080/live/qwe123/qwe123/3808.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title="KOLKATA🖥️🎬", ENTEER TEN BANGLA ✅
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="KOLKATA🖥️🎬", AMAR BANGLA HD✅
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/809040.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFBzzLr/20240812-184048.png" group-title="KOLKATA🖥️🎬", AMAR DIGITAL✅
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YnpKsn/20240907-143157.png" group-title="KOLKATA🖥️🎬", MON TV BANGLA✅
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png" group-title="KOLKATA🖥️🎬", AKASH AATH✅
+http://starshare.live:8080/live/qwe123/qwe123/396.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="KOLKATA🖥️🎬", RUPOSHI BANGLA✅
+http://starshare.live:8080/live/qwe123/qwe123/409.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title="KOLKATA🖥️🎬", BANGLA PLUS✅
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA 
@@ -524,31 +545,6 @@ http://xtv.ooo:8080/live/874246786/743567899/270515.ts
 http://xtv.ooo:8080/live/874246786/743567899/270516.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA🖥️🎬", KHUSHBOO BANGLA❌
-https://cdn3.pishow.tv/live/283/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA🖥️🎬", KHUSHBOO BANGLA FHD❌
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/606161.ts 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title="KOLKATA🖥️🎬", ENTEER TEN BANGLA ✅
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="KOLKATA🖥️🎬", AMAR BANGLA HD✅
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/809040.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bFBzzLr/20240812-184048.png" group-title="KOLKATA🖥️🎬", AMAR DIGITAL✅
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YnpKsn/20240907-143157.png" group-title="KOLKATA🖥️🎬", MON TV BANGLA✅
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png" group-title="KOLKATA🖥️🎬", AKASH AATH✅
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/808975.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="KOLKATA🖥️🎬", RUPOSHI BANGLA✅
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/76191.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title="KOLKATA🖥️🎬", BANGLA PLUS✅
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 
